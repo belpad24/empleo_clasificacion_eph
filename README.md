@@ -78,3 +78,5 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 - Belen Padron
 - Año: 2025
+- Materia Aprendizaje Automatico
+- Profesor: Mirabetes Martin
