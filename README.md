@@ -59,9 +59,9 @@ empleo_clasificacion_eph/
 │   ├── processed/            # Datos procesados y filtrados (listas para modelado)
 │
 ├── notebooks/
-│   ├── eda_preprocesamiento.ipynb        # Limpieza y análisis exploratorio con T3
+│   ├── eda_preprocesamiento.ipynb        # Limpieza y análisis exploratorio con T1
 │   ├── eda_preprocesamiento - copia.ipynb # Limpieza con T4
-│   ├── modelado_resultados.ipynb         # Modelado con datos T3
+│   ├── modelado_resultados.ipynb         # Modelado con datos T1
 │   ├── modelado_resultados - copia.ipynb # Modelado con datos T4
 │
 ├── reports/
@@ -69,6 +69,8 @@ empleo_clasificacion_eph/
 │
 ├── requirements.txt
 └── README.md
+![image](https://github.com/user-attachments/assets/638a850c-7415-4141-8213-1ee65a48b675)
+
 
 ---
 
