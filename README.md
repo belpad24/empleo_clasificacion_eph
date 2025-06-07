@@ -69,6 +69,7 @@ empleo_clasificacion_eph/
 │
 ├── requirements.txt
 └── README.md
+
 ![image](https://github.com/user-attachments/assets/638a850c-7415-4141-8213-1ee65a48b675)
 
 
