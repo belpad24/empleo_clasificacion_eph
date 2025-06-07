@@ -18,9 +18,9 @@ El proyecto busca predecir si una persona está ocupada o desocupada a partir de
 ## 🗂️ Origen de los datos
 
 - Fuente: Encuesta Permanente de Hogares (EPH) – INDEC
-- Trimestre utilizado: T1 2023
+- Trimestre utilizado: T4 2023
 - Archivos originales: disponibles en la carpeta `data/raw/`
-- Dataset procesado: disponible en `data/processed/EPH_T123_filtrado_procesado.csv`
+- Dataset procesado: disponible en `data/processed/EPH_T423_filtrado_procesado.csv`
 
 Se trabajó exclusivamente con personas en estado “ocupado” o “desocupado”, excluyendo inactivos y no clasificados.
 
@@ -65,7 +65,6 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 - scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
-- Visual Studio Code 
 ---
 
 ## 🎥 Presentación
