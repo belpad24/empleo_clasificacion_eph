@@ -52,8 +52,25 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 ## 📁 Estructura del repositorio
 
-![image](https://github.com/user-attachments/assets/8c86780a-9b2b-4955-91d1-f22b6355f6a7)
+empleo_clasificacion_eph/
+│
+├── data/
+│   ├── raw/                  # Datos originales de los 4 trimestres de 2023
+│   ├── processed/            # Datos procesados y filtrados (listas para modelado)
+│
+├── notebooks/
+│   ├── eda_preprocesamiento.ipynb        # Limpieza y análisis exploratorio con T1
+│   ├── eda_preprocesamiento - copia.ipynb # Limpieza con T4
+│   ├── modelado_resultados.ipynb         # Modelado con datos T1
+│   ├── modelado_resultados - copia.ipynb # Modelado con datos T4
+│
+├── reports/
+│   ├── entregas_parciales/   # PDFs con entregas del trabajo práctico
+│
+├── requirements.txt
+└── README.md
 
+![image](https://github.com/user-attachments/assets/638a850c-7415-4141-8213-1ee65a48b675)
 
 
 ---
