@@ -1,4 +1,7 @@
 pandas
+NumPy
 scikit-learn
 matplotlib
 seaborn
+Python 3.x
+Jupyter Notebook
