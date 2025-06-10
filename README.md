@@ -12,6 +12,7 @@ El proyecto busca predecir si una persona está ocupada o desocupada a partir de
 - Edad
 - Nivel educativo alcanzado
 - Categoría ocupacional
+- Aglomerado
 
 ---
 
