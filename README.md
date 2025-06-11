@@ -20,8 +20,8 @@ El proyecto busca predecir si una persona está ocupada o desocupada a partir de
 
 - Fuente: Encuesta Permanente de Hogares (EPH) – INDEC
 - Trimestre utilizado: T4 2023
-- Archivos originales: disponibles en la carpeta `data/raw/`
-- Dataset procesado: disponible en `data/processed/EPH_T423_filtrado_procesado.csv`
+- Archivos originales: disponibles en la carpeta `../data/raw/`
+- Dataset procesado: disponible en `../data/processed/datos_limpios.csv`
 
 Se trabajó exclusivamente con personas en estado “ocupado” o “desocupado”, excluyendo inactivos y no clasificados.
 
@@ -45,7 +45,6 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 ## 📈 Resultados
 
 - Se observó un desbalance entre clases (mayoría de ocupados).
-- Se utilizó `class_weight='balanced'` para compensar el modelo.
 - Las variables edad y nivel educativo mostraron alto peso predictivo.
 - Random Forest fue el modelo con mejor desempeño general.
 
