@@ -47,6 +47,10 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 - Se observó un desbalance entre clases (mayoría de ocupados).
 - Las variables edad y nivel educativo mostraron alto peso predictivo.
 - Random Forest fue el modelo con mejor desempeño general.
+- **Modelo final:** Random Forest
+- **Accuracy:** 97.12%
+- **F1-Score (desempleado):** 0.67
+- **Evaluación regional en Tierra del Fuego:** Accuracy 97.31%
 
 ---
 
@@ -56,7 +60,13 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 
 ---
+## 📊 Datos
 
+- **Fuente:** INDEC - Encuesta Permanente de Hogares (EPH)
+- **Trimestre:** T423 - Cuarto trimestre de 2023
+- **Aglomerado específico:** Ushuaia–Río Grande (AGLOMERADO 91)
+
+---
 ## 🛠️ Herramientas utilizadas
 
 - Python
