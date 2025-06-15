@@ -58,7 +58,6 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 ![image](https://github.com/user-attachments/assets/44d1f4ad-f1f7-42f9-9cfc-c8cd58c35181)
 
-tree -d -L 2 > estructura.txt
 
 ---
 ## 📊 Datos
