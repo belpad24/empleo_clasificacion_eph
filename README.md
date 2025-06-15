@@ -27,6 +27,26 @@ Se trabajó exclusivamente con personas en estado “ocupado” o “desocupado�
 
 ---
 
+## ⚙️ Instalación
+
+1. **Clonar el repositorio:**
+
+git clone https://github.com/belpad24/empleo_clasificacion_eph.git
+cd empleo_clasificacion_eph
+
+2. **Crear entorno virtual**
+
+python -m venv venv
+source venv/bin/activate      # Linux/Mac
+venv\Scripts\activate         # Windows
+
+3. **Instalar las dependencias**
+
+pip install -r requirements.txt
+
+
+---
+
 ## 🧪 Metodología
 
 Se realizó:
@@ -44,8 +64,7 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 ## 📈 Resultados
 
-- Se observó un desbalance entre clases (mayoría de ocupados).
-- Las variables edad y nivel educativo mostraron alto peso predictivo.
+- Fuerte desbalance entre clases (mayoría de ocupados).
 - Random Forest fue el modelo con mejor desempeño general.
 - **Modelo final:** Random Forest
 - **Accuracy:** 97.12%
@@ -69,11 +88,12 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 ---
 ## 🛠️ Herramientas utilizadas
 
-- Python
+- Python 3.x
+- Jupyter Notebook
 - Pandas, NumPy
 - scikit-learn
 - Matplotlib, Seaborn
-- Jupyter Notebook
+
 ---
 
 ## 🎥 Presentación
@@ -86,5 +106,5 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 - Belen Padron
 - Año: 2025
-- Materia Aprendizaje Automatico
+- Materia: Aprendizaje Automatico
 - Profesor: Mirabetes Martin
