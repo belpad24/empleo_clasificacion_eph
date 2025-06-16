@@ -8,10 +8,9 @@ Este proyecto forma parte de la evaluación final del curso de Aprendizaje Autom
 
 El proyecto busca predecir si una persona está ocupada o desocupada a partir de variables sociodemográficas como:
 
-- Sexo
 - Edad
 - Nivel educativo alcanzado
-- Categoría ocupacional
+- Ingreso familiar
 - Aglomerado
 
 ---
@@ -75,8 +74,7 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 ## 📁 Estructura del repositorio
 
-![image](https://github.com/user-attachments/assets/44d1f4ad-f1f7-42f9-9cfc-c8cd58c35181)
-
+![image](https://github.com/user-attachments/assets/ad22dc63-ddfc-49f6-8e2f-580f35908752)
 
 ---
 ## 📊 Datos
