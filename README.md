@@ -74,7 +74,7 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 ## 📁 Estructura del repositorio
 
-![image](https://github.com/user-attachments/assets/ad22dc63-ddfc-49f6-8e2f-580f35908752)
+![image](https://github.com/user-attachments/assets/30bcb4ed-eae4-410c-903e-4869f530f002)
 
 ---
 ## 📊 Datos
