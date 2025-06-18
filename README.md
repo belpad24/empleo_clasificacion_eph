@@ -77,13 +77,6 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 ![image](https://github.com/user-attachments/assets/30bcb4ed-eae4-410c-903e-4869f530f002)
 
 ---
-## 📊 Datos
-
-- **Fuente:** INDEC - Encuesta Permanente de Hogares (EPH)
-- **Trimestre:** T423 - Cuarto trimestre de 2023
-- **Aglomerado específico:** Ushuaia–Río Grande (AGLOMERADO 91)
-
----
 ## 🛠️ Herramientas utilizadas
 
 - Python 3.x
