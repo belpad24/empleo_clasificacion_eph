@@ -92,7 +92,7 @@ Los modelos se evaluaron con métricas de clasificación: accuracy, precision, r
 
 ## 🎥 Presentación
 
-Link a Video desde Drive: https://drive.google.com/file/d/14FstFBhPAVW80XPZNFUhvwel9jhAFb4x/view?usp=sharing
+Link a Video desde Drive: https://drive.google.com/file/d/1EzkrAsV9q7p4OdVktv3Oe3M8omAx5kaK/view?usp=sharing
 
 ---
 
