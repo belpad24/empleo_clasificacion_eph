@@ -13,8 +13,9 @@ El proyecto busca predecir estas condiciones a partir de variables sociodemográ
 - Nivel educativo alcanzado
 - Ingreso familiar
 - Aglomerado
+
+La motivación principal es mostrar cómo se puede usar machine learning para trabajar en un conjunto de datos especificos y ayudar a entender y mejorar el diseño de políticas públicas laborales.
   
-La motivación principal es mostrar cómo el análisis de datos puede ayudar a entender y mejorar el diseño de políticas públicas laborales.
 ---
 
 ## 🗂️ Origen de los datos
