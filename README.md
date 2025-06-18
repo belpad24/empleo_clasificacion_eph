@@ -1,18 +1,20 @@
 # 📊 Clasificación del Estado Laboral con Machine Learning – EPH 2023
 
-Este proyecto forma parte de la evaluación final del curso de Aprendizaje Automático. Tiene como objetivo aplicar técnicas de clasificación para predecir la condición laboral (ocupado/desocupado) de personas en Argentina, utilizando datos reales de la Encuesta Permanente de Hogares (EPH) publicada por el INDEC.
+Este proyecto forma parte de la evaluación final del curso de Aprendizaje Automático de la carrera Tecnico Superior en Ciencia de Datos e IA del Politecnico "Malvinas Argentinas"
 
 ---
 
-## 📌 Objetivo
+## 📌 Objetivo y motivacion
 
-El proyecto busca predecir si una persona está ocupada o desocupada a partir de variables sociodemográficas como:
+Tiene como objetivo aplicar técnicas de clasificación para predecir la condición laboral (ocupado/desocupado) de personas en Argentina, utilizando datos reales de la Encuesta Permanente de Hogares (EPH) publicada por el INDEC.
+El proyecto busca predecir estas condiciones a partir de variables sociodemográficas como:
 
 - Edad
 - Nivel educativo alcanzado
 - Ingreso familiar
 - Aglomerado
-
+  
+La motivación principal es mostrar cómo el análisis de datos puede ayudar a entender y mejorar el diseño de políticas públicas laborales.
 ---
 
 ## 🗂️ Origen de los datos
